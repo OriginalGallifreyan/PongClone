@@ -15,6 +15,8 @@ public class LevelManager : MonoBehaviour {
 			StartLevel ();
 		else if (activeSceneIndex == 1)
 			GameLevel ();
+		else if (activeSceneIndex == 2 || activeSceneIndex == 3)
+			EndLevel ();
 	}
 
 	void StartLevel() {
@@ -31,6 +33,11 @@ public class LevelManager : MonoBehaviour {
 		if (this.isPlaying && !referee.isPlaying) {
 			waitText.enabled = true;
 		}
+	}
+
+	void EndLevel() {
+		if (Input.GetKeyDown (KeyCode.Return))
+			SceneManager.LoadScene (0);
 	}
 
 	public void LoadWinLevel() {
