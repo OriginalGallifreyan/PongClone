@@ -1,0 +1,13 @@
+/Users/randallfulton/Developer/Unity/PongClone/Temp/bin/Debug/UnityEngine.dll
+/Users/randallfulton/Developer/Unity/PongClone/Temp/bin/Debug/UnityEditor.dll
+/Users/randallfulton/Developer/Unity/PongClone/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/randallfulton/Developer/Unity/PongClone/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/randallfulton/Developer/Unity/PongClone/Temp/bin/Debug/Mono.Cecil.dll
+/Users/randallfulton/Developer/Unity/PongClone/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/randallfulton/Developer/Unity/PongClone/Temp/bin/Debug/Unity.DataContract.dll
+/Users/randallfulton/Developer/Unity/PongClone/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/randallfulton/Developer/Unity/PongClone/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/randallfulton/Developer/Unity/PongClone/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/randallfulton/Developer/Unity/PongClone/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/randallfulton/Developer/Unity/PongClone/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/randallfulton/Developer/Unity/PongClone/Temp/bin/Debug/Mono.Cecil.Mdb.dll
